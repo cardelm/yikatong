@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3]]></item>
+	<item id="Time"><![CDATA[2013-07-17 10:03]]></item>
+	<item id="From"><![CDATA[dz3gbk (http://localhost/demo/dz3gbk/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[0]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[卡益联盟]]></item>
+			<item id="identifier"><![CDATA[yikatong]]></item>
+			<item id="description"><![CDATA[原一卡通]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[yikatong/]]></item>
+			<item id="copyright"><![CDATA[www.cardelm.com]]></item>
+			<item id="modules"><![CDATA[a:0:{}]]></item>
+			<item id="version"><![CDATA[V1.0]]></item>
+		</item>
+		<item id="version"><![CDATA[X3]]></item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id=""><![CDATA[]]></item>
+			</item>
+			<item id="templatelang">
+				<item id=""><![CDATA[]]></item>
+			</item>
+			<item id="installlang">
+				<item id=""><![CDATA[]]></item>
+			</item>
+			<item id="systemlang">
+				<item id="file">
+					<item id=""><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+	</item>
+</root>
